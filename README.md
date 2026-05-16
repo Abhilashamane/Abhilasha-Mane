@@ -2,10 +2,6 @@
 
 Welcome to the **Abhilasha Mane** repository! 🚀
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/technosnag)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/alamimran613/)
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imranalam)
-
 # 💫 About Me:
 I'm currently learning
 
